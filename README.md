@@ -1,4 +1,10 @@
-## Hi there 👋
+## Hi there :v:
+My name is **Vadim Galachevsky** and I am a Junior Developer
+
+:computer:I am learning C++ and Phyton.
+I love being part of communities, connecting with people of mutual interests!
+
+:thought_balloon: Discuss with me topics of technology, algorithms, career, anime by writing to me at the email indicated in my profile
 
 <!--
 **WertyDev/WertyDev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
